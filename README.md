@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
-|1 | 圖片 |<img src="IMG
-_
-
+|1 | 圖片 |<img src="005D574A-4B47-4B0C-8012-4EA538CA099B-2082-0000009F4EBA4F4D.jpeg" Witch="100" Height="100" />
 |2 | 姓名 | 洪靖德 |
-|3 | 職稱 | 文書行政 |
-|4 | 任職公司 | 宸通工程行 
+|3 | 職稱 | 養殖人員 |
+|4 | 任職公司 | 台興畜牧場 |
